@@ -1,1 +1,5 @@
-# run-on-linux-mint
+# Copy the link below 👇👇
+
+```erb
+https://raw.githubusercontent.com/SazumiVicky/run-on-linux-mint/main/gura.erb
+```
